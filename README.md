@@ -19,7 +19,7 @@ Jednoduchá konzolová aplikace v jazyce **C#**, která umožňuje uživateli za
 Zadej název města: Brno
 
 Brno, South Moravian, Czech Republic
-Čas: 26.03.2025 - 14:35
+Čas: 26.03.2025 - 14:40
 Teplota: 12.3°C
 Pocitová teplota: 10.7°C
 Vítr: 13 km/h
